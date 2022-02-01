@@ -6,3 +6,9 @@ function foo() {
 }
 
 foo();
+
+function fooV2() {
+  console.log("Hi! v2");
+}
+
+foo();
