@@ -1,1 +1,2 @@
-console.log("Hello, world");
+let name = prompt("Enter your name");
+console.log(`Hello, ${name}`);
